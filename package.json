@@ -11,6 +11,13 @@
     "toggle-range": "node ./scripts/toggle-range.js",
     "set-range": "node ./scripts/set-range.js",
     "test-race": "node ./scripts/test-race.js",
-    "test-race-loop": "node ./scripts/test-race-loop.js"
+    "test-race-loop": "node ./scripts/test-race-loop.js",
+
+    "lint:md": "markdownlint '**/*.md' || true",
+    "check-links": "markdown-link-check --config .markdown-link-check.json '**/*.md' || true",
+    "spell": "cspell '**/*.md' || true",
+    "audit": "npm audit --audit-level=moderate || true",
+
+    "ci": "npm run lint:md && npm run check-links && npm run spell && npm run audit"
   }
 }
