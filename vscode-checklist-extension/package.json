@@ -3,6 +3,8 @@
   "displayName": "Checklist Status",
   "publisher": "arkhi",
   "version": "0.0.1",
+  "repository": { "type": "git", "url": "https://github.com/your/repo.git" },
+  "license": "MIT",
   "engines": { "vscode": "^1.60.0" },
   "activationEvents": ["onStartupFinished"],
   "main": "./extension.js",
@@ -13,9 +15,7 @@
     ]
   },
   "scripts": {
-    "pack": "npx @vscode/vsce package"
-  },
-  "repository": { "type": "git", "url": "https://github.com/yourusername/mission-site.git" },
-  "license": "MIT",
-  "files": ["extension.js", "package.json", "README.md", "LICENSE"]
+    "pack": "npx @vscode/vsce package",
+    "import-checklist": "node ./scripts/import-checklist.js --file ./scripts/master-checklist-2880.txt"
+  }
 }

@@ -7,6 +7,9 @@ Commands:
 - node ./scripts/toggle-check.js <n>
 - npm run status
 
+
+# Checklist
+
 - [x] 1. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
 - [x] 2. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
 - [x] 3. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
@@ -2887,3 +2890,20 @@ Commands:
 - [ ] 2878. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
 - [ ] 2879. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
 - [ ] 2880. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2881. # Master checklist import file
+- [ ] 2882. # Paste the full 2,880 checklist items here, one per line in the format:
+- [ ] 2883. # 1. Item text
+- [ ] 2884. # 2. Item text
+- [ ] 2885. # ...
+- [ ] 2886. # Sample items (replace with your full list or confirm and I'll populate it for you):
+- [ ] 2887. Form initial project steering committee (names, roles, contact info).
+- [ ] 2888. Draft project purpose statement and scope document.
+- [ ] 2889. Establish legal-risk policy (defamation, privacy, export controls).
+- [ ] 2890. Retain lead counsel with experience in defamation, public interest litigation, and whistleblower law.
+- [ ] 2891. Secure pro bono counsel list and intake process.
+- [ ] 2892. Draft editorial standards and evidence policy.
+- [ ] 2893. Create an ethics charter and conflict of interest policy.
+- [ ] 2894. Appoint an independent advisory board (law, science, security, journalism).
+- [ ] 2895. Define chain of command and decision authority for publication.
+- [ ] 2896. Draft confidentiality and non disclosure agreements for staff/volunteers.
+- [ ] 2897. # To populate the file with all 2,880 items from the conversation, reply "populate" and I'll insert the full list now.
