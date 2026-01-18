@@ -1,0 +1,11 @@
+# Ignore generated public checklist snapshot
+my-website/data/checklist.json
+
+# Ignore temporary checklist outputs
+scripts/checklist.json
+
+# Backups
+backups/
+
+# Node modules (keep out of repo)
+node_modules/
