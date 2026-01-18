@@ -3,11 +3,18 @@ const fs = require('fs');
 const path = require('path');
 
 const mdPath = path.join(__dirname, '..', 'Checklist For Accountability.md');
-const outPath = path.join(__dirname, '..', 'my-website', 'data', 'checklist.json');
+const publicFlag = process.argv.includes('--public') || process.env.PUBLISH_CHECKLIST === '1';
+const outPath = publicFlag
+  ? path.join(__dirname, '..', 'my-website', 'data', 'checklist.json')
+  : path.join(__dirname, '..', 'scripts', 'checklist.json');
 
 if (!fs.existsSync(mdPath)) {
   console.error('Checklist file not found:', mdPath);
   process.exit(1);
+}
+
+if (!publicFlag) {
+  console.log('NOTE: Not publishing to site. Run with `--public` to write to my-website/data/checklist.json');
 }
 
 const content = fs.readFileSync(mdPath, 'utf8');
