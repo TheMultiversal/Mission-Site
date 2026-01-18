@@ -1,0 +1,2889 @@
+# Checklist For Accountability
+
+This file contains 2,880 actionable items (1–2880). Each item includes an owner, target, and acceptance criteria template — edit in-place to assign and track progress.
+
+Commands:
+- npm run generate-checklist
+- node ./scripts/toggle-check.js <n>
+- npm run status
+
+- [x] 1. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [x] 2. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [x] 3. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [x] 4. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [x] 5. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [x] 6. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [x] 7. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [x] 8. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [x] 9. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [x] 10. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 11. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 12. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 13. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 14. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 15. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 16. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 17. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 18. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 19. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 20. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 21. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 22. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 23. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 24. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 25. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 26. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 27. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 28. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 29. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 30. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 31. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 32. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 33. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 34. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 35. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 36. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 37. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 38. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 39. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 40. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 41. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 42. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 43. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 44. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 45. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 46. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 47. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 48. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 49. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 50. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 51. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 52. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 53. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 54. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 55. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 56. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 57. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 58. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 59. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 60. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 61. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 62. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 63. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 64. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 65. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 66. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 67. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 68. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 69. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 70. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 71. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 72. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 73. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 74. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 75. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 76. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 77. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 78. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 79. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 80. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 81. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 82. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 83. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 84. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 85. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 86. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 87. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 88. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 89. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 90. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 91. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 92. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 93. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 94. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 95. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 96. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 97. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 98. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 99. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 100. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 101. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 102. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 103. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 104. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 105. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 106. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 107. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 108. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 109. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 110. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 111. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 112. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 113. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 114. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 115. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 116. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 117. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 118. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 119. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 120. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 121. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 122. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 123. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 124. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 125. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 126. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 127. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 128. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 129. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 130. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 131. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 132. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 133. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 134. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 135. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 136. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 137. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 138. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 139. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 140. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 141. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 142. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 143. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 144. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 145. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 146. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 147. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 148. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 149. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 150. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 151. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 152. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 153. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 154. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 155. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 156. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 157. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 158. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 159. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 160. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 161. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 162. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 163. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 164. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 165. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 166. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 167. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 168. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 169. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 170. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 171. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 172. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 173. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 174. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 175. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 176. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 177. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 178. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 179. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 180. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 181. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 182. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 183. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 184. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 185. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 186. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 187. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 188. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 189. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 190. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 191. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 192. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 193. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 194. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 195. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 196. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 197. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 198. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 199. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 200. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 201. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 202. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 203. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 204. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 205. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 206. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 207. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 208. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 209. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 210. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 211. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 212. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 213. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 214. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 215. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 216. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 217. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 218. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 219. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 220. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 221. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 222. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 223. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 224. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 225. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 226. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 227. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 228. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 229. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 230. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 231. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 232. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 233. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 234. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 235. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 236. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 237. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 238. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 239. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 240. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 241. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 242. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 243. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 244. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 245. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 246. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 247. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 248. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 249. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 250. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 251. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 252. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 253. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 254. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 255. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 256. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 257. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 258. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 259. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 260. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 261. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 262. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 263. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 264. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 265. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 266. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 267. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 268. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 269. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 270. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 271. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 272. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 273. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 274. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 275. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 276. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 277. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 278. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 279. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 280. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 281. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 282. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 283. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 284. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 285. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 286. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 287. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 288. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 289. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 290. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 291. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 292. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 293. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 294. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 295. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 296. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 297. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 298. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 299. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 300. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 301. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 302. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 303. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 304. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 305. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 306. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 307. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 308. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 309. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 310. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 311. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 312. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 313. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 314. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 315. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 316. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 317. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 318. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 319. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 320. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 321. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 322. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 323. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 324. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 325. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 326. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 327. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 328. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 329. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 330. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 331. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 332. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 333. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 334. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 335. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 336. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 337. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 338. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 339. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 340. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 341. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 342. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 343. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 344. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 345. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 346. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 347. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 348. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 349. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 350. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 351. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 352. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 353. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 354. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 355. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 356. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 357. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 358. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 359. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 360. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 361. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 362. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 363. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 364. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 365. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 366. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 367. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 368. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 369. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 370. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 371. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 372. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 373. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 374. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 375. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 376. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 377. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 378. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 379. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 380. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 381. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 382. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 383. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 384. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 385. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 386. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 387. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 388. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 389. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 390. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 391. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 392. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 393. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 394. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 395. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 396. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 397. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 398. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 399. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 400. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 401. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 402. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 403. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 404. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 405. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 406. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 407. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 408. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 409. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 410. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 411. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 412. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 413. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 414. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 415. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 416. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 417. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 418. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 419. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 420. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 421. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 422. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 423. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 424. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 425. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 426. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 427. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 428. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 429. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 430. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 431. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 432. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 433. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 434. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 435. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 436. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 437. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 438. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 439. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 440. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 441. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 442. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 443. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 444. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 445. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 446. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 447. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 448. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 449. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 450. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 451. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 452. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 453. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 454. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 455. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 456. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 457. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 458. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 459. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 460. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 461. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 462. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 463. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 464. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 465. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 466. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 467. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 468. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 469. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 470. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 471. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 472. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 473. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 474. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 475. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 476. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 477. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 478. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 479. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 480. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 481. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 482. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 483. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 484. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 485. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 486. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 487. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 488. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 489. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 490. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 491. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 492. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 493. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 494. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 495. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 496. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 497. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 498. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 499. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 500. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 501. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 502. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 503. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 504. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 505. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 506. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 507. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 508. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 509. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 510. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 511. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 512. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 513. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 514. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 515. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 516. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 517. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 518. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 519. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 520. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 521. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 522. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 523. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 524. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 525. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 526. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 527. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 528. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 529. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 530. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 531. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 532. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 533. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 534. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 535. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 536. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 537. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 538. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 539. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 540. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 541. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 542. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 543. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 544. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 545. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 546. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 547. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 548. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 549. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 550. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 551. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 552. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 553. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 554. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 555. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 556. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 557. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 558. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 559. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 560. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 561. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 562. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 563. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 564. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 565. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 566. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 567. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 568. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 569. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 570. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 571. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 572. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 573. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 574. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 575. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 576. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 577. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 578. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 579. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 580. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 581. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 582. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 583. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 584. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 585. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 586. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 587. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 588. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 589. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 590. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 591. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 592. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 593. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 594. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 595. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 596. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 597. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 598. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 599. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 600. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 601. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 602. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 603. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 604. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 605. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 606. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 607. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 608. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 609. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 610. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 611. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 612. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 613. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 614. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 615. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 616. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 617. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 618. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 619. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 620. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 621. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 622. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 623. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 624. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 625. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 626. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 627. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 628. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 629. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 630. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 631. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 632. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 633. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 634. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 635. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 636. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 637. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 638. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 639. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 640. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 641. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 642. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 643. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 644. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 645. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 646. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 647. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 648. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 649. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 650. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 651. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 652. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 653. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 654. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 655. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 656. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 657. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 658. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 659. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 660. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 661. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 662. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 663. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 664. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 665. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 666. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 667. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 668. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 669. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 670. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 671. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 672. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 673. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 674. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 675. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 676. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 677. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 678. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 679. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 680. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 681. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 682. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 683. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 684. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 685. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 686. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 687. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 688. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 689. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 690. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 691. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 692. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 693. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 694. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 695. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 696. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 697. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 698. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 699. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 700. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 701. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 702. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 703. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 704. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 705. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 706. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 707. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 708. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 709. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 710. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 711. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 712. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 713. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 714. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 715. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 716. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 717. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 718. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 719. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 720. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 721. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 722. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 723. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 724. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 725. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 726. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 727. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 728. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 729. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 730. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 731. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 732. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 733. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 734. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 735. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 736. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 737. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 738. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 739. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 740. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 741. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 742. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 743. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 744. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 745. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 746. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 747. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 748. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 749. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 750. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 751. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 752. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 753. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 754. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 755. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 756. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 757. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 758. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 759. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 760. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 761. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 762. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 763. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 764. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 765. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 766. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 767. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 768. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 769. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 770. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 771. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 772. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 773. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 774. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 775. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 776. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 777. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 778. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 779. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 780. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 781. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 782. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 783. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 784. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 785. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 786. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 787. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 788. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 789. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 790. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 791. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 792. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 793. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 794. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 795. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 796. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 797. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 798. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 799. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 800. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 801. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 802. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 803. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 804. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 805. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 806. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 807. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 808. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 809. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 810. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 811. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 812. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 813. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 814. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 815. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 816. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 817. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 818. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 819. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 820. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 821. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 822. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 823. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 824. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 825. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 826. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 827. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 828. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 829. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 830. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 831. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 832. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 833. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 834. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 835. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 836. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 837. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 838. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 839. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 840. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 841. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 842. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 843. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 844. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 845. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 846. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 847. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 848. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 849. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 850. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 851. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 852. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 853. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 854. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 855. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 856. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 857. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 858. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 859. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 860. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 861. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 862. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 863. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 864. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 865. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 866. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 867. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 868. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 869. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 870. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 871. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 872. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 873. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 874. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 875. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 876. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 877. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 878. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 879. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 880. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 881. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 882. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 883. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 884. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 885. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 886. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 887. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 888. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 889. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 890. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 891. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 892. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 893. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 894. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 895. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 896. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 897. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 898. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 899. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 900. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 901. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 902. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 903. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 904. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 905. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 906. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 907. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 908. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 909. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 910. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 911. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 912. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 913. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 914. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 915. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 916. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 917. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 918. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 919. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 920. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 921. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 922. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 923. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 924. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 925. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 926. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 927. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 928. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 929. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 930. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 931. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 932. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 933. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 934. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 935. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 936. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 937. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 938. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 939. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 940. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 941. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 942. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 943. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 944. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 945. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 946. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 947. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 948. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 949. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 950. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 951. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 952. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 953. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 954. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 955. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 956. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 957. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 958. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 959. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 960. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 961. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 962. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 963. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 964. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 965. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 966. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 967. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 968. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 969. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 970. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 971. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 972. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 973. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 974. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 975. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 976. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 977. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 978. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 979. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 980. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 981. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 982. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 983. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 984. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 985. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 986. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 987. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 988. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 989. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 990. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 991. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 992. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 993. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 994. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 995. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 996. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 997. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 998. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 999. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1000. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1001. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1002. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1003. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1004. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1005. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1006. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1007. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1008. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1009. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1010. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1011. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1012. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1013. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1014. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1015. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1016. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1017. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1018. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1019. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1020. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1021. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1022. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1023. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1024. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1025. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1026. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1027. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1028. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1029. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1030. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1031. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1032. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1033. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1034. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1035. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1036. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1037. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1038. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1039. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1040. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1041. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1042. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1043. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1044. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1045. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1046. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1047. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1048. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1049. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1050. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1051. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1052. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1053. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1054. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1055. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1056. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1057. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1058. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1059. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1060. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1061. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1062. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1063. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1064. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1065. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1066. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1067. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1068. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1069. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1070. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1071. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1072. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1073. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1074. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1075. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1076. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1077. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1078. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1079. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1080. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1081. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1082. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1083. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1084. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1085. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1086. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1087. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1088. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1089. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1090. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1091. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1092. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1093. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1094. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1095. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1096. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1097. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1098. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1099. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1100. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1101. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1102. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1103. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1104. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1105. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1106. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1107. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1108. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1109. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1110. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1111. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1112. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1113. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1114. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1115. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1116. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1117. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1118. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1119. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1120. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1121. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1122. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1123. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1124. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1125. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1126. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1127. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1128. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1129. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1130. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1131. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1132. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1133. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1134. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1135. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1136. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1137. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1138. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1139. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1140. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1141. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1142. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1143. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1144. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1145. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1146. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1147. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1148. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1149. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1150. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1151. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1152. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1153. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1154. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1155. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1156. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1157. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1158. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1159. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1160. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1161. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1162. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1163. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1164. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1165. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1166. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1167. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1168. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1169. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1170. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1171. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1172. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1173. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1174. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1175. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1176. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1177. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1178. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1179. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1180. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1181. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1182. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1183. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1184. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1185. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1186. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1187. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1188. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1189. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1190. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1191. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1192. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1193. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1194. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1195. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1196. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1197. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1198. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1199. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1200. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1201. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1202. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1203. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1204. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1205. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1206. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1207. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1208. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1209. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1210. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1211. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1212. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1213. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1214. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1215. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1216. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1217. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1218. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1219. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1220. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1221. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1222. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1223. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1224. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1225. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1226. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1227. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1228. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1229. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1230. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1231. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1232. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1233. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1234. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1235. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1236. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1237. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1238. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1239. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1240. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1241. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1242. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1243. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1244. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1245. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1246. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1247. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1248. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1249. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1250. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1251. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1252. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1253. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1254. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1255. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1256. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1257. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1258. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1259. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1260. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1261. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1262. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1263. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1264. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1265. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1266. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1267. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1268. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1269. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1270. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1271. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1272. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1273. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1274. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1275. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1276. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1277. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1278. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1279. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1280. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1281. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1282. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1283. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1284. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1285. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1286. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1287. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1288. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1289. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1290. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1291. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1292. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1293. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1294. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1295. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1296. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1297. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1298. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1299. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1300. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1301. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1302. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1303. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1304. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1305. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1306. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1307. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1308. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1309. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1310. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1311. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1312. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1313. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1314. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1315. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1316. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1317. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1318. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1319. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1320. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1321. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1322. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1323. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1324. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1325. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1326. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1327. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1328. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1329. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1330. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1331. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1332. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1333. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1334. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1335. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1336. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1337. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1338. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1339. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1340. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1341. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1342. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1343. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1344. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1345. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1346. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1347. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1348. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1349. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1350. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1351. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1352. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1353. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1354. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1355. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1356. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1357. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1358. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1359. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1360. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1361. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1362. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1363. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1364. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1365. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1366. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1367. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1368. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1369. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1370. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1371. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1372. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1373. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1374. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1375. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1376. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1377. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1378. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1379. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1380. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1381. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1382. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1383. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1384. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1385. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1386. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1387. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1388. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1389. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1390. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1391. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1392. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1393. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1394. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1395. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1396. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1397. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1398. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1399. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1400. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1401. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1402. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1403. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1404. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1405. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1406. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1407. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1408. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1409. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1410. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1411. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1412. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1413. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1414. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1415. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1416. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1417. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1418. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1419. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1420. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1421. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1422. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1423. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1424. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1425. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1426. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1427. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1428. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1429. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1430. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1431. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1432. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1433. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1434. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1435. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1436. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1437. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1438. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1439. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1440. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1441. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1442. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1443. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1444. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1445. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1446. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1447. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1448. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1449. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1450. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1451. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1452. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1453. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1454. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1455. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1456. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1457. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1458. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1459. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1460. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1461. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1462. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1463. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1464. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1465. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1466. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1467. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1468. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1469. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1470. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1471. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1472. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1473. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1474. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1475. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1476. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1477. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1478. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1479. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1480. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1481. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1482. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1483. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1484. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1485. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1486. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1487. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1488. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1489. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1490. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1491. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1492. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1493. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1494. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1495. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1496. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1497. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1498. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1499. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1500. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1501. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1502. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1503. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1504. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1505. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1506. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1507. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1508. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1509. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1510. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1511. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1512. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1513. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1514. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1515. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1516. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1517. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1518. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1519. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1520. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1521. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1522. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1523. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1524. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1525. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1526. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1527. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1528. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1529. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1530. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1531. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1532. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1533. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1534. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1535. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1536. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1537. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1538. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1539. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1540. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1541. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1542. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1543. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1544. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1545. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1546. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1547. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1548. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1549. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1550. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1551. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1552. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1553. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1554. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1555. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1556. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1557. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1558. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1559. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1560. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1561. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1562. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1563. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1564. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1565. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1566. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1567. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1568. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1569. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1570. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1571. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1572. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1573. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1574. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1575. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1576. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1577. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1578. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1579. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1580. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1581. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1582. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1583. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1584. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1585. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1586. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1587. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1588. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1589. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1590. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1591. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1592. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1593. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1594. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1595. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1596. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1597. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1598. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1599. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1600. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1601. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1602. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1603. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1604. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1605. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1606. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1607. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1608. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1609. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1610. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1611. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1612. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1613. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1614. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1615. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1616. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1617. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1618. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1619. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1620. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1621. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1622. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1623. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1624. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1625. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1626. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1627. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1628. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1629. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1630. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1631. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1632. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1633. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1634. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1635. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1636. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1637. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1638. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1639. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1640. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1641. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1642. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1643. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1644. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1645. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1646. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1647. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1648. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1649. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1650. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1651. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1652. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1653. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1654. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1655. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1656. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1657. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1658. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1659. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1660. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1661. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1662. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1663. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1664. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1665. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1666. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1667. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1668. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1669. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1670. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1671. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1672. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1673. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1674. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1675. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1676. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1677. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1678. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1679. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1680. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1681. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1682. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1683. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1684. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1685. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1686. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1687. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1688. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1689. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1690. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1691. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1692. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1693. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1694. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1695. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1696. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1697. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1698. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1699. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1700. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1701. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1702. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1703. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1704. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1705. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1706. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1707. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1708. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1709. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1710. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1711. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1712. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1713. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1714. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1715. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1716. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1717. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1718. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1719. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1720. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1721. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1722. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1723. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1724. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1725. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1726. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1727. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1728. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1729. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1730. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1731. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1732. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1733. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1734. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1735. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1736. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1737. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1738. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1739. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1740. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1741. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1742. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1743. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1744. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1745. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1746. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1747. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1748. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1749. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1750. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1751. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1752. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1753. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1754. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1755. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1756. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1757. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1758. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1759. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1760. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1761. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1762. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1763. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1764. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1765. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1766. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1767. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1768. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1769. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1770. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1771. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1772. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1773. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1774. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1775. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1776. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1777. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1778. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1779. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1780. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1781. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1782. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1783. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1784. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1785. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1786. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1787. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1788. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1789. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1790. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1791. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1792. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1793. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1794. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1795. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1796. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1797. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1798. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1799. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1800. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1801. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1802. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1803. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1804. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1805. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1806. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1807. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1808. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1809. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1810. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1811. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1812. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1813. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1814. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1815. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1816. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1817. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1818. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1819. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1820. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1821. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1822. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1823. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1824. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1825. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1826. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1827. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1828. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1829. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1830. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1831. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1832. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1833. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1834. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1835. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1836. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1837. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1838. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1839. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1840. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1841. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1842. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1843. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1844. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1845. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1846. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1847. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1848. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1849. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1850. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1851. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1852. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1853. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1854. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1855. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1856. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1857. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1858. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1859. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1860. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1861. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1862. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1863. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1864. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1865. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1866. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1867. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1868. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1869. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1870. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1871. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1872. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1873. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1874. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1875. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1876. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1877. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1878. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1879. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1880. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1881. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1882. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1883. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1884. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1885. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1886. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1887. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1888. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1889. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1890. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1891. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1892. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1893. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1894. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1895. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1896. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1897. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1898. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1899. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1900. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1901. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1902. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1903. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1904. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1905. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1906. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1907. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1908. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1909. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1910. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1911. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1912. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1913. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1914. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1915. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1916. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1917. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1918. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1919. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1920. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1921. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1922. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1923. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1924. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1925. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1926. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1927. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1928. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1929. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1930. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1931. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1932. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1933. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1934. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1935. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1936. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1937. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1938. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1939. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1940. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1941. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1942. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1943. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1944. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1945. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1946. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1947. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1948. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1949. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1950. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1951. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1952. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1953. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1954. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1955. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1956. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1957. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1958. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1959. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1960. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1961. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1962. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1963. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1964. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1965. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1966. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1967. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1968. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1969. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1970. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1971. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1972. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1973. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1974. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1975. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1976. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1977. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1978. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1979. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1980. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1981. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1982. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1983. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1984. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1985. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1986. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1987. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1988. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1989. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1990. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1991. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1992. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1993. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1994. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1995. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1996. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1997. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1998. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 1999. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2000. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2001. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2002. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2003. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2004. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2005. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2006. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2007. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2008. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2009. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2010. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2011. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2012. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2013. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2014. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2015. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2016. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2017. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2018. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2019. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2020. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2021. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2022. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2023. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2024. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2025. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2026. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2027. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2028. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2029. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2030. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2031. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2032. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2033. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2034. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2035. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2036. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2037. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2038. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2039. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2040. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2041. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2042. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2043. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2044. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2045. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2046. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2047. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2048. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2049. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2050. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2051. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2052. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2053. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2054. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2055. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2056. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2057. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2058. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2059. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2060. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2061. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2062. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2063. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2064. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2065. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2066. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2067. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2068. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2069. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2070. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2071. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2072. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2073. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2074. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2075. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2076. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2077. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2078. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2079. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2080. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2081. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2082. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2083. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2084. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2085. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2086. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2087. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2088. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2089. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2090. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2091. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2092. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2093. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2094. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2095. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2096. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2097. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2098. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2099. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2100. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2101. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2102. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2103. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2104. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2105. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2106. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2107. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2108. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2109. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2110. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2111. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2112. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2113. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2114. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2115. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2116. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2117. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2118. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2119. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2120. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2121. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2122. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2123. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2124. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2125. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2126. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2127. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2128. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2129. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2130. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2131. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2132. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2133. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2134. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2135. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2136. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2137. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2138. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2139. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2140. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2141. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2142. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2143. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2144. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2145. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2146. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2147. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2148. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2149. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2150. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2151. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2152. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2153. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2154. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2155. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2156. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2157. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2158. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2159. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2160. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2161. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2162. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2163. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2164. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2165. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2166. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2167. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2168. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2169. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2170. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2171. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2172. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2173. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2174. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2175. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2176. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2177. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2178. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2179. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2180. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2181. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2182. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2183. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2184. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2185. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2186. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2187. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2188. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2189. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2190. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2191. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2192. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2193. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2194. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2195. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2196. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2197. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2198. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2199. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2200. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2201. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2202. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2203. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2204. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2205. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2206. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2207. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2208. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2209. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2210. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2211. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2212. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2213. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2214. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2215. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2216. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2217. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2218. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2219. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2220. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2221. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2222. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2223. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2224. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2225. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2226. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2227. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2228. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2229. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2230. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2231. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2232. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2233. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2234. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2235. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2236. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2237. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2238. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2239. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2240. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2241. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2242. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2243. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2244. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2245. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2246. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2247. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2248. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2249. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2250. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2251. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2252. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2253. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2254. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2255. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2256. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2257. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2258. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2259. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2260. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2261. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2262. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2263. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2264. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2265. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2266. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2267. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2268. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2269. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2270. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2271. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2272. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2273. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2274. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2275. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2276. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2277. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2278. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2279. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2280. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2281. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2282. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2283. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2284. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2285. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2286. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2287. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2288. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2289. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2290. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2291. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2292. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2293. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2294. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2295. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2296. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2297. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2298. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2299. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2300. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2301. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2302. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2303. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2304. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2305. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2306. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2307. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2308. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2309. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2310. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2311. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2312. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2313. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2314. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2315. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2316. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2317. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2318. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2319. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2320. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2321. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2322. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2323. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2324. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2325. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2326. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2327. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2328. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2329. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2330. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2331. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2332. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2333. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2334. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2335. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2336. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2337. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2338. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2339. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2340. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2341. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2342. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2343. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2344. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2345. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2346. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2347. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2348. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2349. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2350. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2351. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2352. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2353. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2354. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2355. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2356. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2357. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2358. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2359. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2360. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2361. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2362. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2363. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2364. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2365. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2366. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2367. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2368. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2369. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2370. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2371. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2372. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2373. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2374. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2375. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2376. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2377. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2378. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2379. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2380. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2381. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2382. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2383. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2384. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2385. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2386. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2387. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2388. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2389. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2390. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2391. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2392. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2393. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2394. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2395. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2396. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2397. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2398. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2399. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2400. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2401. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2402. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2403. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2404. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2405. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2406. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2407. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2408. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2409. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2410. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2411. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2412. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2413. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2414. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2415. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2416. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2417. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2418. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2419. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2420. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2421. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2422. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2423. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2424. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2425. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2426. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2427. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2428. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2429. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2430. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2431. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2432. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2433. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2434. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2435. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2436. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2437. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2438. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2439. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2440. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2441. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2442. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2443. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2444. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2445. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2446. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2447. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2448. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2449. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2450. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2451. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2452. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2453. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2454. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2455. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2456. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2457. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2458. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2459. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2460. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2461. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2462. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2463. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2464. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2465. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2466. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2467. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2468. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2469. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2470. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2471. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2472. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2473. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2474. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2475. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2476. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2477. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2478. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2479. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2480. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2481. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2482. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2483. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2484. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2485. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2486. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2487. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2488. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2489. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2490. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2491. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2492. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2493. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2494. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2495. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2496. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2497. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2498. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2499. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2500. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2501. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2502. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2503. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2504. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2505. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2506. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2507. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2508. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2509. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2510. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2511. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2512. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2513. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2514. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2515. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2516. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2517. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2518. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2519. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2520. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2521. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2522. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2523. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2524. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2525. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2526. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2527. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2528. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2529. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2530. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2531. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2532. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2533. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2534. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2535. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2536. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2537. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2538. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2539. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2540. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2541. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2542. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2543. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2544. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2545. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2546. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2547. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2548. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2549. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2550. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2551. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2552. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2553. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2554. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2555. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2556. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2557. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2558. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2559. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2560. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2561. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2562. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2563. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2564. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2565. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2566. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2567. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2568. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2569. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2570. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2571. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2572. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2573. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2574. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2575. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2576. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2577. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2578. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2579. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2580. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2581. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2582. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2583. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2584. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2585. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2586. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2587. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2588. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2589. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2590. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2591. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2592. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2593. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2594. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2595. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2596. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2597. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2598. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2599. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2600. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2601. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2602. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2603. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2604. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2605. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2606. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2607. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2608. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2609. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2610. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2611. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2612. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2613. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2614. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2615. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2616. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2617. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2618. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2619. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2620. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2621. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2622. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2623. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2624. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2625. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2626. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2627. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2628. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2629. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2630. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2631. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2632. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2633. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2634. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2635. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2636. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2637. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2638. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2639. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2640. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2641. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2642. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2643. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2644. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2645. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2646. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2647. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2648. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2649. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2650. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2651. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2652. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2653. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2654. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2655. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2656. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2657. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2658. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2659. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2660. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2661. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2662. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2663. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2664. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2665. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2666. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2667. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2668. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2669. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2670. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2671. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2672. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2673. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2674. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2675. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2676. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2677. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2678. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2679. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2680. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2681. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2682. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2683. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2684. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2685. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2686. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2687. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2688. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2689. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2690. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2691. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2692. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2693. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2694. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2695. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2696. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2697. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2698. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2699. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2700. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2701. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2702. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2703. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2704. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2705. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2706. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2707. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2708. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2709. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2710. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2711. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2712. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2713. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2714. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2715. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2716. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2717. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2718. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2719. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2720. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2721. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2722. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2723. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2724. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2725. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2726. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2727. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2728. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2729. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2730. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2731. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2732. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2733. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2734. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2735. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2736. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2737. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2738. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2739. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2740. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2741. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2742. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2743. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2744. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2745. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2746. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2747. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2748. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2749. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2750. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2751. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2752. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2753. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2754. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2755. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2756. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2757. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2758. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2759. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2760. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2761. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2762. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2763. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2764. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2765. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2766. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2767. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2768. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2769. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2770. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2771. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2772. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2773. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2774. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2775. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2776. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2777. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2778. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2779. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2780. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2781. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2782. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2783. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2784. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2785. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2786. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2787. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2788. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2789. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2790. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2791. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2792. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2793. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2794. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2795. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2796. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2797. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2798. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2799. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2800. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2801. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2802. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2803. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2804. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2805. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2806. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2807. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2808. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2809. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2810. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2811. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2812. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2813. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2814. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2815. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2816. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2817. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2818. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2819. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2820. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2821. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2822. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2823. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2824. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2825. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2826. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2827. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2828. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2829. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2830. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2831. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2832. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2833. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2834. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2835. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2836. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2837. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2838. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2839. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2840. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2841. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2842. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2843. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2844. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2845. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2846. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2847. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2848. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2849. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2850. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2851. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2852. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2853. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2854. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2855. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2856. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2857. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2858. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2859. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2860. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2861. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2862. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2863. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2864. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2865. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2866. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2867. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2868. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2869. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2870. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2871. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2872. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2873. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2874. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2875. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2876. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2877. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2878. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2879. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [ ] 2880. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
