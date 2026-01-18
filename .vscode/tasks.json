@@ -1,0 +1,33 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "Generate checklist", "type": "shell", "command": "npm run generate-checklist" },
+    { "label": "Toggle checklist item", "type": "shell", "command": "node ./scripts/toggle-check.js ${input:stepNumber}" },
+    {
+      "label": "Generate batch",
+      "type": "shell",
+      "command": "npm run generate-batch -- --start ${input:start} --count ${input:count}",
+      "presentation": { "reveal": "always" }
+    },
+    {
+      "label": "Toggle checklist range",
+      "type": "shell",
+      "command": "npm run toggle-range -- --start ${input:rangeStart} --end ${input:rangeEnd}",
+      "presentation": { "reveal": "always" }
+    },
+    {
+      "label": "Set checklist range",
+      "type": "shell",
+      "command": "npm run set-range -- --start ${input:rangeStart} --end ${input:rangeEnd} --state ${input:rangeState}",
+      "presentation": { "reveal": "always" }
+    }
+  ],
+  "inputs": [
+    { "id": "stepNumber", "type": "promptString", "description": "Enter step number (1–2880)" },
+    { "id": "start", "type": "promptString", "description": "Start index (1–2880)" },
+    { "id": "count", "type": "promptString", "description": "Number of items to append (e.g. 300)" },
+    { "id": "rangeStart", "type": "promptString", "description": "Start index (1–2880)" },
+    { "id": "rangeEnd", "type": "promptString", "description": "End index (1–2880)" },
+    { "id": "rangeState", "type": "pickString", "description": "check or uncheck", "options": ["check","uncheck"], "default": "check" }
+  ]
+}

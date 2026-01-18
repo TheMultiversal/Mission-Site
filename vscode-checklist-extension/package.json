@@ -1,0 +1,21 @@
+{
+  "name": "checklist-status",
+  "displayName": "Checklist Status",
+  "publisher": "arkhi",
+  "version": "0.0.1",
+  "engines": { "vscode": "^1.60.0" },
+  "activationEvents": ["onStartupFinished"],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      { "command": "checklist.showActions", "title": "Checklist: Show actions" },
+      { "command": "checklist.refresh", "title": "Checklist: Refresh status" }
+    ]
+  },
+  "scripts": {
+    "pack": "npx @vscode/vsce package"
+  },
+  "repository": { "type": "git", "url": "https://github.com/yourusername/mission-site.git" },
+  "license": "MIT",
+  "files": ["extension.js", "package.json", "README.md", "LICENSE"]
+}

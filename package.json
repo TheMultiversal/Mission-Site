@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "vite": "^7.3.1",
+    "proper-lockfile": "^4.1.2"
+  },
+  "scripts": {
+    "generate-checklist": "node ./scripts/generate-checklist.js",
+    "toggle": "node ./scripts/toggle-check.js",
+    "status": "node ./scripts/check-status.js",
+    "generate-batch": "node ./scripts/generate-batch.js",
+    "toggle-range": "node ./scripts/toggle-range.js",
+    "set-range": "node ./scripts/set-range.js",
+    "test-race": "node ./scripts/test-race.js",
+    "test-race-loop": "node ./scripts/test-race-loop.js"
+  }
+}
