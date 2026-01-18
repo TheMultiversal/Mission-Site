@@ -1978,45 +1978,45 @@ Commands:
 - [ ] 1961. Implement a mutual aid MOU template covering emergency cross border assistance.
 - [ ] 1962. Draft a protocol for coordinating evidence transfer under MLAT requests.
 - [ ] 1963. ...
-- [x] 1964. Draft the mission statement (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [x] 1965. Establish the FOIA templates (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [x] 1966. Harden the incident playbook (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [x] 1967. Design the data catalog (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [x] 1968. Implement the consent workflow (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [x] 1969. Certify the blind QA samples (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [x] 1970. Draft the press pack (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [x] 1971. Coordinate the regulatory petition (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [x] 1972. Monitor the monitoring station upkeep (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [x] 1973. Develop the trauma-informed training (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1974. Implement the reserve fund target (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1975. Publish the external evaluation (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1976. Implement the DOI issuance (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1977. Publish the governance charter (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1978. Create the preservation notices (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1979. Implement the EDR policy (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1980. Implement the retention policy (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1981. Deploy the reporting hotline (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1982. Draft the chain-of-custody slips (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1983. Train the media Q&A scripts (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1984. Submit the legislative brief (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1985. Design the CI/CD security scans (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1986. Deliver the volunteer certification (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1987. Audit the grant reporting pack (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1988. Design the impact framework (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1989. Test the archival restore runbook (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1990. Review the board onboarding pack (Governance) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1991. Draft the litigation playbook (Legal) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1992. Audit the key rotation (Security) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1993. Validate the checksum revalidation (Data) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1994. Create the community training (Community) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1995. Pilot the inter-lab comparison (Lab QA) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1996. Publish the embargo procedures (Communications) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1997. Draft the model ordinance (Policy & Advocacy) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1998. Deploy the signed-release pipeline (Technology) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 1999. Certify the continuous education (Training) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 2000. Create the donor acceptance policy (Fundraising) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 2001. Run the random audit plan (Evaluation) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
-- [ ] 2002. Document the access controls (Archives) — Owner: [team/person]; Target: [YYYY-MM-DD]; Acceptance: [clear measurable criteria].
+- [x] 1964. Draft the mission statement (Governance)
+- [x] 1965. Establish the FOIA templates (Legal)
+- [x] 1966. Harden the incident playbook (Security)
+- [x] 1967. Design the data catalog (Data)
+- [x] 1968. Implement the consent workflow (Community)
+- [x] 1969. Certify the blind QA samples (Lab QA)
+- [x] 1970. Draft the press pack (Communications)
+- [x] 1971. Coordinate the regulatory petition (Policy & Advocacy)
+- [x] 1972. Monitor the monitoring station upkeep (Technology)
+- [x] 1973. Develop the trauma-informed training (Training)
+- [ ] 1974. Implement the reserve fund target (Fundraising)
+- [ ] 1975. Publish the external evaluation (Evaluation)
+- [ ] 1976. Implement the DOI issuance (Archives)
+- [ ] 1977. Publish the governance charter (Governance)
+- [ ] 1978. Create the preservation notices (Legal)
+- [ ] 1979. Implement the EDR policy (Security)
+- [ ] 1980. Implement the retention policy (Data)
+- [ ] 1981. Deploy the reporting hotline (Community)
+- [ ] 1982. Draft the chain-of-custody slips (Lab QA)
+- [ ] 1983. Train the media Q&A scripts (Communications)
+- [ ] 1984. Submit the legislative brief (Policy & Advocacy)
+- [ ] 1985. Design the CI/CD security scans (Technology)
+- [ ] 1986. Deliver the volunteer certification (Training)
+- [ ] 1987. Audit the grant reporting pack (Fundraising)
+- [ ] 1988. Design the impact framework (Evaluation)
+- [ ] 1989. Test the archival restore runbook (Archives)
+- [ ] 1990. Review the board onboarding pack (Governance)
+- [ ] 1991. Draft the litigation playbook (Legal)
+- [ ] 1992. Audit the key rotation (Security)
+- [ ] 1993. Validate the checksum revalidation (Data)
+- [ ] 1994. Create the community training (Community)
+- [ ] 1995. Pilot the inter-lab comparison (Lab QA)
+- [ ] 1996. Publish the embargo procedures (Communications)
+- [ ] 1997. Draft the model ordinance (Policy & Advocacy)
+- [ ] 1998. Deploy the signed-release pipeline (Technology)
+- [ ] 1999. Certify the continuous education (Training)
+- [ ] 2000. Create the donor acceptance policy (Fundraising)
+- [ ] 2001. Run the random audit plan (Evaluation)
+- [ ] 2002. Document the access controls (Archives)
 - [ ] 2003. # Master checklist import file
 - [ ] 2004. # Paste the full 2,880 checklist items here, one per line in the format:
 - [ ] 2005. # 1. Item text
